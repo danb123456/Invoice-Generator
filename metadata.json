@@ -1,0 +1,5 @@
+{
+  "name": "UK Invoice Generator",
+  "description": "Generate accurate, fully formatted, and legally compliant invoices for customers in the United Kingdom.",
+  "requestFramePermissions": []
+}
